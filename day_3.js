@@ -10,7 +10,7 @@ password = "abcdef"
 
 console.log(name, email, password);
 
-
+// 
 
 
 // Why not to use the var ?
